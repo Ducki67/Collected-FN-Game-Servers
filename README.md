@@ -5,4 +5,4 @@ Collected FN Game Servers from other archives and sources. Open sources, free to
 ***Ill list all features if some of them have features :)***
 
 ## Suggesting Game-Servers 
-Fell free to open a issue ticket and upload the file and ill add it to  the list + I might test it
+Feel free to open a issue ticket and upload the file and ill add it to  the list + I might test it

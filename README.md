@@ -23,7 +23,7 @@ Forge GS 10.40 ( fix needed) | https://github.com/ForgeFN/Forge
 *GameServer-2.5-main.zip*
 A random "GameServer 2.5"
 
-HalalGS-19.10-main.zip
+*HalalGS-19.10-main.zip*
 HalalGS-19.10 (very buggy) | https://github.com/Heliato/HalalGS-19.10
 
 *JGS-2.4.2_fixed.zip*
